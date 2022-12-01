@@ -1,0 +1,50 @@
+.myBG{
+    height: 100vh;
+    background: #F7F6DC;
+    background-size: cover;
+}
+
+.navbar{
+    color: white;
+}
+
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.quotes{
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 1px black;
+    color: #FFC090;
+    letter-spacing: 4px;
+}
+
+.novel{
+    height: auto;
+    background: #B1D7B4;
+    background-size: cover;
+}
+
+.bookImage{
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}
+
+.bookWrapper{
+}
+
+.images{
+    height: 500px;
+}
+
+.komik{
+    height: auto;
+    background: #7FB77E;
+    background-size: cover;
+}
